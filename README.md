@@ -34,6 +34,15 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/724bbfe6-5bbf-4e9e-8d76-d29f254fc962) <br>
 ## Word Cloud <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/5b23e3fb-ca37-4a18-9181-8c5b7171ab80) <br>
+## Bubble <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/ce2ee5c5-0dfd-45a6-962b-c379e7c319df) <br>
+## Waterfall <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/8d0f8e8b-5f0b-45b9-b1bf-6123ea4e1d64) <br>
+## Table Summary <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/754142bd-4f5b-41a3-9342-e29474d4e4e3) <br>
+
+
+
 
 
 
