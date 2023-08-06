@@ -95,6 +95,13 @@
 
 ### Line Chart: Performance in online by sleep time(hours) <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/d7abc128-0d68-4ff2-bca9-4290a46019ea) <br>
+## Web Integration <br>
+### Integrating dashboards/stories/reports to web <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/301d79b7-44cb-49af-8b2b-c79b813907c6) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/863015a1-4ffb-4683-97d2-b4f7bacecd41) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/e6f28ea1-2112-482d-b3b2-25b2d88a943b) <br>
+
+
 
 
 
