@@ -10,6 +10,14 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/ce497a41-a593-4707-af99-0c727e712b20) <br>
 <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/2816e48c-05e1-4eb8-bc55-6cac1ab4ad94)
+<br>
 
+### Prepare The Data For Visualization <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/abb90064-f564-4061-978d-aef522db8434)
+<br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/d14a94eb-3c6b-411e-be5f-2cb1eac6613b)
+<br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/d5bf4663-d2b6-4029-942d-f983fafae7ef)
+<br>
 
 <br>
