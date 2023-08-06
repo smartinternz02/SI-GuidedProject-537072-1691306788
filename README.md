@@ -57,6 +57,51 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/5b2e7b33-6e64-4032-8514-c4d98c7e6643) <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/4baa51de-24ac-4056-b2d0-8a8528ea4043) <br>
 
+## Performance Testing <br>
+## Utilization Of Data Filters <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/aae56925-c62e-4ac3-a953-5dd25468a9c2) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/b293b74c-aaac-4ad8-8472-cf1ccb8d6ee9) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/61e0b004-b4c8-44ee-93e3-bd48793c6107) <br>
+## No Of Calculation Fields <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/3c49af1b-1232-4049-941e-a170fad5f17b) <br>
+## No Of Visualizations/ Graphs <br>
+
+### Column Chart: Age(Years) by Your level of satisfaction in Online Education <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/a8c56998-1a2b-49a1-b6f5-d982dce8cddc) <br>
+
+### Bar Chart: Internet facility in your locality by Your level of satisfaction in Online Education <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/abe1c656-7271-4e7a-8eb2-58a9a5fb8a37) <br>
+
+### Bar chart: Performance in online by Level of Education <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/dc5fd64e-2643-4c05-b9c9-fdb43ed184e4) <br>
+
+### Pie Chart: Time spent on social media (Hours) by Device type used to attend classes <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/d93bdfd9-3714-4edd-ae25-bbf3819cedbd) <br>
+
+### Packed bubbles : Engaged in group studies? colored by Engaged in group studies? sized by Performance in online <br> 
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/4e73c823-5fd1-4e25-9969-b8c241dd2de9) <br>
+
+### Wordcloud: Average marks scored before pandemic in traditional classroom <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/27634b98-349e-40bd-9c0e-f19a71081229) <br>
+
+### Table: Economic status, Home Location and Performance in online <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/74fcf6cb-a3e2-419e-81d5-6318d317956d) <br>
+
+### Radial Chart: <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/850422b8-78c4-4feb-bd38-c964a42f74dc) <br>
+
+### Line Chart: Performance in online by study time(hours) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/b13db596-2389-4673-898c-28645ed67612) <br>
+
+### Line Chart: Performance in online by sleep time(hours) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/d7abc128-0d68-4ff2-bca9-4290a46019ea) <br>
+
+
+
+
+
+
+
 
 
 
