@@ -45,6 +45,21 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/f466451e-e35b-4540-8c13-32b9fc4882fd) <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/3d368b4f-f25a-47ce-94bc-66f4b5e5bc3f) <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/4164f04d-10c3-47ce-a9aa-16de53d8bcc5) <br>
+## Story <br>
+## No Of Scenes Of Story: 05 <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/1828d160-0bc4-4154-b098-185c0cf8d40d) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/855449e5-7ba9-4cb6-a137-0d0a0b552caf) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/0d340405-bfdf-4cd4-8c17-566ae41526cb) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/be771dae-5d29-40b2-bb06-4bf1a765e55f) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/4f5ecba4-f21e-417a-96f3-5c7c36fa3850) <br>
+## Report <br>
+## Create a Report <br>
+
+
+
+
+
+
 
 
 
