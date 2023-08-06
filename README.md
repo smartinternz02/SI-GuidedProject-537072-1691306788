@@ -20,5 +20,29 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/d5bf4663-d2b6-4029-942d-f983fafae7ef)
 <br>
 ## Data Visualization <br>
+## Bar Chart <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/7f352967-03b3-491d-ab5f-54864ef94c29) <br>
+## Line Chart <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/5d3e4504-2e50-4689-8fcb-e089e368a182) <br>
+## Heat Map <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/5fe51c8c-8a7b-4498-b0d7-65a247b098b7) <br>
+## Scatter Plot <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/174a097c-5c63-4c9b-8d95-09b121524d93) <br>
+## Pie Chart <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/8913de63-0dc0-4514-a0f2-13dd87727bda) <br>
+## Area <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/724bbfe6-5bbf-4e9e-8d76-d29f254fc962) <br>
+## Word Cloud <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/5b23e3fb-ca37-4a18-9181-8c5b7171ab80) <br>
+
+
+
+
+
+
+
+
+
+
 
 <br>
