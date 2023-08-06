@@ -105,6 +105,7 @@
 
 ## Project Demonstration & Documentation <br>
 ### Record Explanation Video For Project End To End Solution <br>
+## [Recorded Video](https://drive.google.com/file/d/11V4BDcYt5FvwwmVvDzlKSXdWqldmeFxd/view?usp=sharing) <br>
 
 
 ### Project Documentation-Step By Step Project Development Procedure <br>
