@@ -40,6 +40,12 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/8d0f8e8b-5f0b-45b9-b1bf-6123ea4e1d64) <br>
 ## Table Summary <br>
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/754142bd-4f5b-41a3-9342-e29474d4e4e3) <br>
+## My Dashboard <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/f466451e-e35b-4540-8c13-32b9fc4882fd) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/3d368b4f-f25a-47ce-94bc-66f4b5e5bc3f) <br>
+
+
+
 
 
 
