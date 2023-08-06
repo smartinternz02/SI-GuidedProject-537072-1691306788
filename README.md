@@ -54,6 +54,10 @@
 ![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/4f5ecba4-f21e-417a-96f3-5c7c36fa3850) <br>
 ## Report <br>
 ## Create a Report <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/5b2e7b33-6e64-4032-8514-c4d98c7e6643) <br>
+![image](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/assets/38531342/4baa51de-24ac-4056-b2d0-8a8528ea4043) <br>
+
+
 
 
 
