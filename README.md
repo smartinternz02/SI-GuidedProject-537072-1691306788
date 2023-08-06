@@ -111,7 +111,7 @@
 ### [Dashboard2](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/blob/main/vClass_dashboard2.pdf) <br>
 ### [Story1](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/blob/main/vClass_story.pdf) <br>
 ### [Story2](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/blob/main/vClass_Story2.pdf) <br>
-### [Report](https://us1.ca.analytics.ibm.com/bi/?perspective=authoring&closeWindowOnLastView=true) <br>
+### [Report](https://github.com/smartinternz02/SI-GuidedProject-537072-1691306788/blob/main/vClass_report.pdf) <br>
 
 
 
